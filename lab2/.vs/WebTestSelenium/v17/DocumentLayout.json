@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\source\\repos\\WebTestSelenium\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3CA60C-3DA5-4B5D-B800-56418D6C7012}|WebTestSelenium\\WebTestSelenium.csproj|c:\\users\\danie\\source\\repos\\webtestselenium\\webtestselenium\\sortbypostcodesteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3CA60C-3DA5-4B5D-B800-56418D6C7012}|WebTestSelenium\\WebTestSelenium.csproj|solutionrelative:webtestselenium\\sortbypostcodesteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3CA60C-3DA5-4B5D-B800-56418D6C7012}|WebTestSelenium\\WebTestSelenium.csproj|c:\\users\\danie\\source\\repos\\webtestselenium\\webtestselenium\\bankmanagerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3CA60C-3DA5-4B5D-B800-56418D6C7012}|WebTestSelenium\\WebTestSelenium.csproj|solutionrelative:webtestselenium\\bankmanagerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3CA60C-3DA5-4B5D-B800-56418D6C7012}|WebTestSelenium\\WebTestSelenium.csproj|c:\\users\\danie\\source\\repos\\webtestselenium\\webtestselenium\\sortbypostcode.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BA3CA60C-3DA5-4B5D-B800-56418D6C7012}|WebTestSelenium\\WebTestSelenium.csproj|solutionrelative:webtestselenium\\sortbypostcode.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankManagerPage.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\WebTestSelenium\\WebTestSelenium\\BankManagerPage.cs",
+              "RelativeDocumentMoniker": "WebTestSelenium\\BankManagerPage.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\WebTestSelenium\\WebTestSelenium\\BankManagerPage.cs",
+              "RelativeToolTip": "WebTestSelenium\\BankManagerPage.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:08:15.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SortByPostCodeSteps.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\WebTestSelenium\\WebTestSelenium\\SortByPostCodeSteps.cs",
+              "RelativeDocumentMoniker": "WebTestSelenium\\SortByPostCodeSteps.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\WebTestSelenium\\WebTestSelenium\\SortByPostCodeSteps.cs",
+              "RelativeToolTip": "WebTestSelenium\\SortByPostCodeSteps.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:07:27.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SortByPostCode.feature",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\WebTestSelenium\\WebTestSelenium\\SortByPostCode.feature",
+              "RelativeDocumentMoniker": "WebTestSelenium\\SortByPostCode.feature",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\WebTestSelenium\\WebTestSelenium\\SortByPostCode.feature",
+              "RelativeToolTip": "WebTestSelenium\\SortByPostCode.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-11T15:06:18.67Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
